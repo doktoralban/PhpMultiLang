@@ -1,0 +1,10 @@
+<?php
+define("active","Active");
+define("success","Success");
+define("warning","Warning");
+define("danger","Danger");
+define("info","Info");
+define("turkish","Turkish");
+define("english","English");
+define("multilangsample","multilangsample");
+?>
